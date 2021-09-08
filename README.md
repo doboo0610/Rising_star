@@ -1,2 +1,2 @@
-# Rising_star
-just rising star
+# hello-world
+just another resposlitory
